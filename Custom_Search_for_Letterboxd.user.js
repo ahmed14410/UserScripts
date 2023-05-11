@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Custom Search for Letterboxd
+// @name         Custom Search Links For Letterboxd
 // @author       ahmed14410
 // @namespace    https://github.com/ahmed14410/UserScripts/blob/master/Custom_Search_for_Letterboxd.user.js
-// @version      1.0
-// @description  add Your custom search sources for Letterboxd
+// @version      1.1
+// @description  Add your custom search sources for Letterboxd
 // @license      MIT
 // @match        https://letterboxd.com/film/*
 // @match        https://subscene.com/subtitles/title?q=*
