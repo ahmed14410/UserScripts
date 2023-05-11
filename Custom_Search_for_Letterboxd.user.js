@@ -6,7 +6,7 @@
 // @description  add Your custom search sources for Letterboxd
 // @license      MIT
 // @match        https://letterboxd.com/film/*
-// @match        *://subscene.com/subtitles/title?q=*
+// @match        https://subscene.com/subtitles/title?q=*
 // @icon         https://raw.githubusercontent.com/ahmed14410/UserScripts/master/img/letterboxd_icon.png
 // @grant        GM_addStyle
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
