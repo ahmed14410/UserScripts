@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Custom Search for Letterboxd
 // @author       ahmed14410
-// @namespace    https://github.com/ahmed14410/UserScripts
+// @namespace    https://github.com/ahmed14410/UserScripts/blob/master/Custom_Search_for_Letterboxd.user.js
 // @version      1.0
 // @description  add Your custom search sources for Letterboxd
 // @license      MIT
@@ -9,7 +9,7 @@
 // @match        *://subscene.com/subtitles/title?q=*
 // @icon         https://raw.githubusercontent.com/ahmed14410/UserScripts/master/img/letterboxd_icon.png
 // @grant        GM_addStyle
-// @require	     https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // ==/UserScript==
 
 if (location.hostname === 'letterboxd.com') {
