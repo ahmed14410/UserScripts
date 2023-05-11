@@ -28,7 +28,7 @@ let customSearchSources = [
     },
     {
         name: 'RARBG',
-        url: 'https://rarbgaccess.org/torrents.php?search=%query%',
+        url: 'https://rarbg.to/torrents.php?search=%query%',
     },
     {
         name: '1337x',
