@@ -2,7 +2,7 @@
 // @name         Custom Search Links For Letterboxd
 // @author       ahmed14410
 // @namespace    https://github.com/ahmed14410/UserScripts/blob/master/Custom_Search_for_Letterboxd.user.js
-// @version      1.1
+// @version      1.2
 // @description  Add your custom search sources for Letterboxd
 // @license      MIT
 // @match        https://letterboxd.com/film/*
@@ -27,8 +27,8 @@ let customSearchSources = [
         url: 'https://subscene.com/subtitles/title?q=%query%',
     },
     {
-        name: 'RARBG',
-        url: 'https://rarbg.to/torrents.php?search=%query%',
+        name: 'YTS',
+        url: 'https://yts.mx/browse-movies/%query%',
     },
     {
         name: '1337x',
